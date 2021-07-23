@@ -8,7 +8,7 @@ int main()
 {
 int dmat[20][20];
 int n,i,j,k,count=0;
-printf("\nEnter the number of nodes: ");
+printf("\nEnter the number of nodes ");
 scanf("%d",&n);
 printf("\nEnter the cost matrix\n");
 for(i=0;i<n;i++)
